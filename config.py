@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @bhaveshbots_11
+# Subscribe YouTube Channel For Amazing Bot https://www.youtube.com/@Oldvibes_011
+# Ask Doubt on telegram @yashthebossxbot
 
 import os
 
@@ -14,21 +14,24 @@ else:
     STRING_SESSION = None
 
 # Bot token @Botfather
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8914787511:AAE4gQXIhAzmMjRmyk35a-D0Q5hHZsO3_08")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8837181381:AAG3bogX5M5foF7ReJ-_AzMCDx9UB8GE2hQ")
 
 # Your API ID from my.telegram.org
-API_ID = int(os.environ.get("API_ID", "212537"))
+API_ID = int(os.environ.get("API_ID", "35357111"))
 
 # Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "da577b0e93726db36c50bcb537cc4c58")
+API_HASH = os.environ.get("API_HASH", "9516c2d943f2d07caec19678e8d2289c")
 
 # Your Owner / Admin Id For Broadcast 
-ADMINS = int(os.environ.get("ADMINS", "8795435389"))
+ADMINS = int(os.environ.get("ADMINS", "8902900224")
+
+)
+🔗 Permanent Lin"))
 
 # Your Channel Id In Which Bot Upload Downloaded Video/File/Message etc.
 # And Make Your Bot Admin In this channel with full rights.
 # if you don't want to upload in channel then leave it blank don't fill anything.
-CHANNEL_ID = os.environ.get("CHANNEL_ID", "-1004291647118")
+CHANNEL_ID = os.environ.get("CHANNEL_ID", "")
 
 # Your Mongodb Database Url
 # Warning - Give Db uri in deploy server environment variable, don't give in repo.
